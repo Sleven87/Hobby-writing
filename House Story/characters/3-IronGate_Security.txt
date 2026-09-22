@@ -1,0 +1,6 @@
+Name:                IronGate Security
+ID:                  3
+Importance:          0
+POV:                 True
+Phrase Summary:      Small local security company that monitors a small residential area in Sugar City Idaho. Customers pay a monthly fee and can call at any time 24/7 if they have any worries (suspicious people walking the street etc) and they will send a security guard to investigate, and to call in police if needed.
+Color:               #e6e5ec

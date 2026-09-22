@@ -1,0 +1,9 @@
+Name:                House #15 7th Ave, Sugar City, Idaho
+ID:                  1
+Importance:          1
+POV:                 False
+Motivation:          To trap anybody inside and keep them there indefinately. to consume them. no actual motivation, simply is evil. no motivation needed.
+Goal:                to trap unbeknownst victims inside forever, it needs residents as that is its purpose
+Conflict:            Jude Cole trying to escape so it is trying to stop him.
+Epiphany:            none.
+Color:               #b20000

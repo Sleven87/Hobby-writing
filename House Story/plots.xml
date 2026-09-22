@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <plot name="Trapped in the house" ID="0" importance="2" characters="0,1" description="Jude Cole is called out to investigate some teens vandalising an abandoned house and to eject them from the premesis. when entering the house he becomes trapped inside which he does not initially realize until he explores what he believes to be the entire house, finds some spray cans littered in one of the bedrooms which he picks up to dispose of, nothing seems odd to begin with but when he tries to leave he gets lost in the house trying to find the entrance again, madness ensues." result="Jude gets trapped in the house and then spends the story trying to escape with many escapades along the way."/>
+  <plot name="false hope / fake escape" ID="1" importance="1" characters="0,1"/>
+  <plot name="Teen Vandals" ID="2" importance="0" characters="0,1" description="Jude receives a call from some locals complaining about some vandals tresspassing and vandalising a local abandoned house, they want him to investigate and get rid of them as they find the house to be an eyesore already and want to make sure it doesnt get worse as it already makes their street look less valuable" result="Jude responds to the call and heads out to investigate, leaving his co-worker to man the phones and takes his communication radio with him."/>
+</root>

@@ -1,0 +1,10 @@
+Name:                Jude Cole (TBC)
+ID:                  0
+Importance:          2
+POV:                 False
+Motivation:          Investigate the house as he received a callout as he is local security and somebody called to advise of vandals trashing the abandoned house so motivation is to do his job.
+Goal:                To send the vandals on their way if he can find them, and call the police if need be, then to head back to the office as he is on night shift.
+Conflict:            Once he enters the house he will not be able to exit again, conflict lays with the way he interacts with the house and the way it prevents him from leaving.
+Epiphany:            When he figures out a way to leave the house.
+Phrase Summary:      Local security guard working a night shift is called out to an abandoned house only to get trapped.
+Color:               #1500fa

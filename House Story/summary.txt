@@ -1,0 +1,277 @@
+Situation:   Man finds himself trapped in a house that defies all logic and can not escape
+Sentence:    man finds himself trapped inside of an omnicient house that transforms and changes at will, keeping the man trapped within the house and slowly driving him insane by changing things inside the house, giving him hallucinations and body horror/gore, keeping him trapped within for unknown reasons and breaking him mentally.
+Full:        # Living House Horror
+             
+             ## Core Premise
+             
+             * One ordinary man becomes trapped inside an abandoned, living horror house.
+             * He works for a local security company.
+             * Locals call the company because they believe teenagers/young vandals have been trespassing in the abandoned house.
+             * He enters expecting a mundane security job: find the kids and get them out.
+             * He has basic security equipment: flashlight, radio, phone, etc. No gun.
+             * Once inside, the house becomes impossible to navigate and he cannot find the exit.
+             * Everything in the story takes place inside the house.
+             * The central mystery is simply: **What the fuck is this house?**
+             * The house does not need to be explained completely.
+             
+             ## House Rules / Abilities
+             
+             * The house can change its internal layout.
+             * Rooms can appear, disappear, repeat, or subtly change.
+             * The house is effectively unmappable.
+             * The protagonist can encounter apparently identical rooms without knowing whether they are the same room.
+             * The house can manipulate perception, memory, sensory experience and possibly physical reality.
+             * The house can create convincing hallucinations/manipulations.
+             * The house can reproduce places from the protagonist's real life.
+             * The house can imitate voices, including the protagonist's own voice.
+             * The house appears capable of manipulating time or at least the protagonist's perception of it.
+             * The house can make escape appear possible and then remove the possibility.
+             * The exact nature of the house remains uncertain, but its established mechanics should remain internally consistent.
+             
+             ## Mapping / Time
+             
+             * The protagonist tries to map the house by writing on walls and leaving marks.
+             * His markings do not remain reliable.
+             * He may carve notches into a doorframe to count days.
+             * When he returns:
+             
+             * the notches may have disappeared;
+             * there may suddenly be far more notches than he remembers making;
+             * the markings may otherwise contradict his memory.
+             * This prevents him from reliably determining where he is or how much time has passed.
+             * The story needs to communicate that **months may pass inside the house**, even though the protagonist cannot establish exactly how long.
+             
+             ## Impossible Architecture
+             
+             * Endless rooms / corridors.
+             * The protagonist can run through room after room without seeming to make meaningful progress.
+             * A door that appears to lead outside may disappear if he leaves to find a way to unlock/open it.
+             * He may discover an outside-facing window.
+             * Through the window he can see and hear ordinary people outside.
+             * They cannot see or hear him.
+             * Voices can come from other rooms.
+             * He follows them expecting to find people, but nobody is there.
+             
+             ## Psychological Manipulation
+             
+             * The house gradually destroys his confidence in his own senses and memories.
+             * It exploits his guilt, misery and emotional vulnerabilities.
+             * This is **not** a moral lesson about guilt or redemption.
+             * The purpose is to make the experience increasingly horrifying and psychologically destabilising.
+             * The protagonist may scream at the house:
+             
+             * "FUCK YOU!"
+             * "WHY ARE YOU DOING THIS?"
+             * "KILL ME!"
+             * The house may answer using his own voice.
+             * Example concept:
+             
+             * He asks why it is doing this.
+             * His own voice answers from somewhere nearby.
+             * The response implies that he knows why and that he deserves it.
+             * The dialogue should be unsettling rather than overly explanatory.
+             
+             ## Familiar Places
+             
+             The house can recreate rooms from the protagonist's real life, including:
+             
+             * His childhood bedroom.
+             * His parents' bedroom.
+             * His grandparents' living room.
+             * Other familiar rooms.
+             
+             These should feel like the house is using his own memories against him rather than simply providing exposition about his past.
+             
+             ## Body Horror
+             
+             * Horror should become increasingly visceral and disgusting.
+             * Detailed sensory descriptions are encouraged.
+             * Body horror can occur through hallucinations or physical manipulation.
+             * The protagonist should sometimes be unsure whether something horrifying actually happened.
+             * Do not explain every disturbing event immediately.
+             * Let the reader experience the sensory horror before understanding what is wrong.
+             
+             ## Rotten Food Scene
+             
+             * A kitchen appears clean, warm and normal.
+             * Fresh food is being prepared/cooked.
+             * The protagonist is starving and eats it.
+             * Only afterwards does the environment reveal itself as filthy, rotten and musty.
+             * The food he thought was fresh is actually disgusting/rotten.
+             * This is inspired by an old horror story written at university and should retain that same visceral "holy shit, that's disgusting" effect.
+             * The scene should rely on sensory setup and delayed realisation rather than immediately announcing that the food is rotten.
+             
+             ## Water / Basement
+             
+             * Water becomes a recurring element rather than a one-off scare.
+             * The protagonist attempts to interfere with the house's plumbing/water mains.
+             * He may deliberately break something, hoping to exploit the plumbing or create another route through the house.
+             * Instead, he floods the basement.
+             * The flooded basement becomes difficult or impossible to traverse.
+             * Later, he returns to the basement and finds it completely dry.
+             * This creates uncertainty about whether:
+             
+             * the house changed;
+             * time changed;
+             * reality changed;
+             * or his own memory/perception is unreliable.
+             * The event should have consequences and connect to his attempts to escape rather than simply being a standalone twist.
+             
+             ## Escalation
+             
+             The story should escalate by **deepening existing horrors rather than constantly introducing new ones**.
+             
+             Possible progression:
+             
+             1. Mundane security call.
+             2. Initial exploration.
+             3. First impossible spatial event.
+             4. Attempts to understand/map the house.
+             5. Failed escape attempts.
+             6. Increasingly strange rooms and manifestations.
+             7. Body horror and sensory manipulation.
+             8. Increasing uncertainty about time and memory.
+             9. Hope appears.
+             10. Hope is destroyed.
+             11. Apparent escape.
+             12. Long period of apparent freedom.
+             13. He becomes complacent and believes it is finally over.
+             14. He enters an ordinary room.
+             15. He suddenly finds himself back inside the house.
+             16. Psychological deterioration accelerates.
+             17. Final attempt to escape.
+             18. He discovers the final door.
+             
+             ## Apparent Escape
+             
+             * The protagonist eventually appears to escape the house.
+             * He spends a significant amount of time outside.
+             * Life gradually feels normal again.
+             * He begins to believe the ordeal is genuinely over.
+             * He becomes complacent.
+             * Something completely mundane eventually causes him to enter a room — potentially something as ordinary as going to the bathroom.
+             * He closes the door.
+             * When he opens/reaches for something, he discovers that he is back inside the house.
+             * The return is a major psychological breaking point.
+             * **This is NOT the final ending.**
+             
+             ## Possible "Resident"
+             
+             * There may be another figure/entity living inside the house.
+             * The protagonist might have to hide from it.
+             * This idea is currently **undecided**.
+             * It can be removed entirely if it makes the story feel too crowded or turns the house into a conventional monster story.
+             
+             ## Final Ending
+             
+             ### The Open Door
+             
+             * Near the end, the protagonist finds another door.
+             * He somehow manages to open/remove/unlock it.
+             * Beyond the doorway is the outside world.
+             * It is nighttime.
+             * He can see:
+             
+             * grass moving in the breeze;
+             * the night sky;
+             * ordinary darkness;
+             * hear crickets and other natural nighttime sounds;
+             * feel fresh air.
+             * Nothing obviously sinister is happening.
+             * The outside world looks completely normal.
+             * He does **not** immediately walk through.
+             * Instead, he sits on the floor in front of the open doorway.
+             * He simply stares outside.
+             * He takes in the fresh air and the sight of the world beyond the house.
+             * There is no dialogue.
+             * There is no final supernatural clue.
+             * There is no explanation.
+             * **The story ends there.**
+             
+             ### Intended Ambiguity
+             
+             The ending deliberately leaves several possibilities equally viable:
+             
+             1. **It is genuinely the exit.**
+             
+             * He eventually gets up and leaves.
+             * The story simply ends before we see it.
+             
+             2. **He is psychologically destroyed.**
+             
+             * He can no longer trust anything the house shows him.
+             * Even when presented with a genuine exit, he cannot bring himself to go through it.
+             
+             3. **It is another trick.**
+             
+             * He eventually goes outside.
+             * The house has simply found another way to manipulate him.
+             * He may ultimately return to it.
+             
+             The story should **not answer which interpretation is correct**.
+             
+             Do not add a final:
+             
+             * shadow;
+             * strange sound;
+             * movement in the grass;
+             * dripping water;
+             * impossible detail;
+             * voice;
+             * physical clue;
+             * supernatural confirmation.
+             
+             Those would begin turning the ambiguity into an answer.
+             
+             The final page should feel like the story has stopped at the exact moment **before the answer exists**.
+             
+             ## Structural Principles
+             
+             * Keep the story enclosed and concentrated.
+             * Avoid sprawling outside-world mythology.
+             * Avoid unnecessary conspiracies, cults, family sagas, multiple trapped people, etc.
+             * One protagonist.
+             * Other "people" are manifestations/hallucinations unless deliberately established otherwise.
+             * One central mystery: **what is the house?**
+             * The protagonist's immediate goal is simply: **get the fuck out of the house.**
+             * The reader should discover the house alongside him.
+             * The house should have rules, even if the reader never learns all of them.
+             * Avoid arbitrary rule changes.
+             * The author should know what the house can and cannot do, even if the story never explains why.
+             * Mystery should come from incomplete information, not inconsistent writing.
+             * Combine multiple horror ideas into sequences rather than making every idea its own chapter or twist.
+             * Escalate existing concepts instead of continually adding new concepts.
+             
+             ## Tone / Reader Experience
+             
+             Aim for:
+             
+             * dread;
+             * confusion;
+             * claustrophobia;
+             * tension;
+             * isolation;
+             * disgust;
+             * visceral body horror;
+             * "wait, what the fuck?";
+             * uncertainty about reality;
+             * brief moments of hope;
+             * increasingly brutal destruction of that hope.
+             
+             The reader should feel trapped with the protagonist rather than receiving a tidy explanation of the supernatural.
+             
+             ## Things NOT To Do
+             
+             * No moral about being a good person.
+             * No "face your trauma and heal" storyline.
+             * No redemption arc required.
+             * No definitive explanation of the house.
+             * No giant supernatural mythology unless genuinely necessary.
+             * No sprawling world outside the house.
+             * No constant "new twist every chapter."
+             * No ending that secretly confirms one interpretation of the final door.
+             * No arbitrary supernatural rules that contradict earlier events.
+             
+             ## Rough Story Shape
+             
+             **Security call → abandoned house → exploration → impossible architecture → mapping attempts → failed escape → increasingly disturbing manifestations → body horror → manipulation of time/memory → escalating desperation → apparent escape → apparent normal life → return to house → further psychological destruction → final door → outside world → protagonist sits and stares → END**
